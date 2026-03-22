@@ -1,6 +1,6 @@
 Caught you lacking!👀
 
-![](https://komarev.com/ghpvc/?username=pelumiiiii)
+![](https://komarev.com/ghpvc/?username=pelumiiiii&color=grey)
 
 <!--
 **pelumiiiii/pelumiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
