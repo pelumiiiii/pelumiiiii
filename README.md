@@ -1,4 +1,10 @@
-Caught you lacking!👀
+Hi, name is Michael.
+
+About me:
+Currently boxing for my M.S. in Data Analystics... you're next 👊
+
+*Profile is under construction
+
 
 ![](https://komarev.com/ghpvc/?username=pelumiiiii&color=grey)
 
